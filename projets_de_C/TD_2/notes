@@ -1,0 +1,8 @@
+TODO 1 :
+On a besoin de quatre variables a,b,r,d  (a = b*d + r) pour l'algorithme d'Euclide
+Ce n'est pas une boucle déterministe. On poura utiliser 'do...while'  par exemple
+
+TODO 2 :
+non deterministe, 4 variables
+? , un tableau de 100 cases
+deterministe, une varaible Somme
